@@ -52,6 +52,8 @@ return {
 				"black",
 				"pylint",
 				"eslint_d",
+				"rustfmt",
+				"codelldb",
 			},
 		})
 	end,
